@@ -35,7 +35,7 @@
 ---
 
 ### 📊 核心效能监测 | CORE METRICS
-[![Nexitron Stats](https://github-readme-stats.vercel.app/api?username=Nexitron-Labs&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Nexitron Stats](https://github-readme-stats.vercel.app/api?username=Nexitron-Labs&show_icons=true&theme=tokyonight&hide_border=true)]([https://github.com/](https://github.com/Nexitron-Labs/))
 
 ---
 
